@@ -10,4 +10,4 @@ You should put it in the data/ directory if you intend to run on it using this s
 A demo of my results can be viewed directly on github here:
 https://github.com/along528/SFCrime/blob/master/code/sfcrime.ipynb
 
-It uses an ipython notebook and should be self explanatory.
+It uses an ipython notebook located in code/sfcrime.ipynb and should be self explanatory.
